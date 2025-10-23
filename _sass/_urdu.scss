@@ -153,3 +153,40 @@ body .urdu-text,
 	font-weight: 700 !important; /* use the Bold.ttf */
 	color: #000;
 }
+
+/* =========================================================
+   Urdu Poetry Styling — Verse-tight + Between-verse spacing
+   ========================================================= */
+
+.urdu-poetry {
+	direction: rtl;
+	unicode-bidi: embed;
+	font-family: 'Jameel Noori Nastaleeq', serif !important;
+
+	/* Layout */
+	max-width: 32rem;
+	margin: 3rem auto;
+	padding: 0 2rem;
+	text-align: justify;
+	text-align-last: justify;
+	font-size: 2.1em;        /* slightly larger Nastaleeq */
+	word-spacing: 0.06em;
+	letter-spacing: 0.02em;
+	white-space: pre-line;
+}
+
+/* Tight line spacing within a verse */
+.urdu-poetry .couplet {
+	line-height: 1.7;        /* tighter spacing between two lines of same verse */
+	margin-bottom: 2.4rem;   /* larger gap before next verse */
+}
+
+/* Optional: title styling remains same */
+.urdu-poem-title {
+	direction: rtl;
+	text-align: center;
+	font-family: 'Jameel Noori Nastaleeq', serif !important;
+	font-size: 1.6em;
+	margin-bottom: 1.5rem;
+	font-weight: 500;
+}
