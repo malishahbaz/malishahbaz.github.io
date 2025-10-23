@@ -1,0 +1,155 @@
+/* =========================================================
+   Urdu RTL + Nastaleeq styling
+   ========================================================= */
+
+/* =========================================================
+   Local Nastaleeq font family with multiple weights
+   ========================================================= */
+
+@font-face {
+	font-family: 'Noto Nastaleeq Urdu';
+	src: url('/assets/fonts/noto-nastaleeq/NotoNastaliqUrdu-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Noto Nastaleeq Urdu';
+	src: url('/assets/fonts/noto-nastaleeq/NotoNastaliqUrdu-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+/* Urdu text styling */
+body .urdu-text,
+.post-content .urdu-text,
+.markdown-body .urdu-text {
+	direction: rtl;
+	unicode-bidi: embed;
+	text-align: justify;
+	font-family: 'Noto Nastaleeq Urdu', 'Jameel Noori Nastaleeq', 'Urdu Typesetting', serif !important;
+	line-height: 2;
+	font-size: 1.15em;
+}
+
+/* Urdu post titles */
+.urdu-title {
+	direction: rtl;
+	text-align: right;
+	font-family: 'Noto Nastaleeq Urdu', serif !important;
+}
+
+/* Urdu quotations */
+.urdu-quote {
+	direction: rtl;
+	unicode-bidi: embed;
+	border-right: 4px solid #ddd;
+	padding-right: 0.75rem;
+	margin-right: 0.5rem;
+}
+
+/* Urdu post title styling */
+.post-title,
+.page-title {
+	font-family: 'Noto Nastaleeq Urdu', serif !important;
+	direction: rtl;
+	text-align: right;
+	line-height: 1.6;
+	font-weight: normal;
+}
+
+/* Urdu author metadata styling */
+.post-meta,
+.post-meta a,
+.byline,
+.byline a {
+	font-family: 'Noto Nastaleeq Urdu', serif !important;
+	direction: rtl;
+	text-align: right;
+}
+
+
+/* --- 1) Turn OFF italics everywhere in Urdu sections --- */
+.urdu-text,
+.urdu-text em,
+.urdu-text i,
+.post-title,
+.page-title,
+.post-meta,
+.post-meta a,
+.byline,
+.byline a,
+.urdu-quote {
+  font-style: normal !important;
+}
+
+/* --- 2) Comfortable line spacing and better justification --- */
+.urdu-text {
+  line-height: 2.2;           /* was 1.15–2; increase for Nastaleeq readability */
+  text-align: justify;
+  text-justify: inter-word;    /* browsers that support it */
+  word-spacing: 0.04em;        /* tiny looseness helps Nastaleeq */
+}
+
+/* --- 3) Title & meta polish --- */
+.post-title,
+.page-title {
+  line-height: 1.8;            /* a bit taller for big Nastaleeq titles */
+  font-weight: 500;            /* keep elegant weight */
+}
+.post-meta,
+.byline {
+  direction: rtl;
+  text-align: right;
+  opacity: 0.85;               /* optional subtlety */
+}
+
+/* --- 4) Urdu quotation block with proper guillemets --- */
+/* Use « … » which are common in Urdu/Arabic typesetting */
+.urdu-quote {
+  position: relative;
+  padding-right: 1rem;
+  margin: 1rem 0 1.25rem;
+  border-right: 4px solid #d9d9d9;    /* quote bar on the right for RTL */
+  font-size: 1.15em;                  /* a touch larger */
+  line-height: 2.2;                   /* match body */
+}
+
+/* Insert guillemets automatically */
+.urdu-quote::before,
+.urdu-quote::after {
+  font-family: inherit;
+  font-style: normal;
+  position: relative;
+}
+
+.urdu-quote::before {
+  content: "«";
+  margin-left: .25rem;   /* space after opening (RTL) */
+}
+
+.urdu-quote::after {
+  content: "»";
+  margin-right: .25rem;  /* space before closing (RTL) */
+}
+
+/* If your quoted text already includes ASCII quotes, neutralize them */
+.urdu-text q { quotes: "«" "»"; }
+.urdu-text q::before { content: open-quote; }
+.urdu-text q::after  { content: close-quote; }
+
+
+/* --- Nastaleeq Bold support (Markdown + HTML) --- */
+.urdu-text strong,
+.urdu-text b,
+.markdown-body strong,
+.markdown-body b,
+.post-content strong,
+.post-content b {
+	font-family: 'Noto Nastaleeq Urdu', serif !important;
+	font-weight: 700 !important; /* use the Bold.ttf */
+	color: #000;
+}

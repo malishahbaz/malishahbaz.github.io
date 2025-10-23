@@ -1,0 +1,36 @@
+<style>
+  /* Apply Nastaleeq only to Urdu text elements inside posts */
+
+  /* Main text */
+  .post-content [lang="ur"],
+  .post-content .urdu-text {
+    direction: rtl;
+    unicode-bidi: embed;
+    text-align: justify;
+    font-family: 'Noto Nastaleeq Urdu', 'Jameel Noori Nastaleeq', serif !important;
+    line-height: 2;
+    font-size: 1em;          /* same size as normal text */
+  }
+
+  /* Title and author (when explicitly Urdu) */
+  .post-title[lang="ur"],
+  .page-title[lang="ur"],
+  .post-meta[lang="ur"],
+  .post-meta a[lang="ur"] {
+    font-family: 'Noto Nastaleeq Urdu', serif !important;
+    direction: rtl;
+    text-align: right;
+    font-size: inherit;
+    line-height: 1.6;
+  }
+
+  /* Bold & quote fixes */
+  .post-content [lang="ur"] strong,
+  .post-content [lang="ur"] b {
+    font-weight: 700 !important;
+  }
+  .post-content [lang="ur"] em,
+  .post-content [lang="ur"] i {
+    font-style: normal !important;
+  }
+</style>

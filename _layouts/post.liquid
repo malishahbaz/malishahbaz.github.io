@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+{% if page.lang == "ur" or page.tags contains "urdu" %}
+  {% include urdu-style.liquid %}
+{% endif %}
+
 {% assign year = page.date | date: '%Y' %}
 {% assign tags = page.tags | join: '' %}
 {% assign categories = page.categories | join: '' %}
