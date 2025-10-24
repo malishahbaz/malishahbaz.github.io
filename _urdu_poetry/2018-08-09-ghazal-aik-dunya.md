@@ -2,7 +2,7 @@
 layout: post
 title: "ایک دنیا ہے مرے درپئے آزار جدا"
 author: "محمد بلال اعظم"
-date: 2025-10-24
+date: 2018-08-09
 slug: ghazal-aik-dunya
 lang: ur
 tags: [urdu, poetry, ghazal, nastaleeq]
