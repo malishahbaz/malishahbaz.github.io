@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2015-04-04
 slug: ghazal-ishq-girdab-ki-surat
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, عشق, ishq, گرداب, girdab, سہارے, sahare, دشمن, dushman, جان, jaan, زلف, zulf, شام, shaam, سمندر, samandar, آنکھیں, aankhein, کنارے, kinare, امید, umeed]
 ---
 
 <div class="urdu-poetry" lang="ur">

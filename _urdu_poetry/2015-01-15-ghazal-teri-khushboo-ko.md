@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2015-01-15
 slug: ghazal-teri-khushboo-ko
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

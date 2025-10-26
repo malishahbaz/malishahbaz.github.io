@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2015-08-08
 slug: ghazal-jab-umr-bhar-na-aain
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

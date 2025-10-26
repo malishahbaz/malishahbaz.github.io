@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-06-17
 slug: ghazal-kon-janay-teri-judai-mein
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, جدائی, judaai, ہجر, hijr, رات, raat, آنسو, aansoo, پیار, pyaar, یاد, yaad, زخم, zakhm, رشتہ, rishta, جاں, jaan, رویا, roya, بلال, bilal]
 ---
 
 <div class="urdu-poetry" lang="ur">

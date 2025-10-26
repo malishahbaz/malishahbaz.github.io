@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2015-08-01
 slug: ghazal-phir-shauq-e-mohabbat
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

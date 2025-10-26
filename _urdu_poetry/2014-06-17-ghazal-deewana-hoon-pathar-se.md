@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-06-17
 slug: ghazal-deewana-hoon-pathar-se
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-06-17
 slug: ghazal-meri-wahshat-ka-sabab
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, وحشت, wahshat, سبب, sabab, عشق, ishq, جان, jaan, کرب, karb, دنیا, duniya, سخن, sukhan, بلال, bilal]
 ---
 
 <div class="urdu-poetry" lang="ur">

@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2015-06-09
 slug: ghazal-jab-bhi-chaha-unhain-le-jayega
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, خواب, khawab, امانت, amanat, چاند, chaand, محبت, mohabbat, قیمت, qeemat, جیت, jeet, رفاقت, rifaqat, اندھیرا, andhera, ریگ, reyg, عنایت, inayat, بلال, bilal]
 ---
 
 <div class="urdu-poetry" lang="ur">

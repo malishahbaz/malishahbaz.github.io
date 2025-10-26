@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2018-09-08
 slug: ghazal-aaj-mausam
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

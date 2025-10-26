@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2020-05-06
 slug: ghazal-ab-to-har-simt
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

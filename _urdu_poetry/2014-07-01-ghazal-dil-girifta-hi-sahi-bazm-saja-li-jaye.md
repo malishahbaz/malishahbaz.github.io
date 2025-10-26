@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-07-01
 slug: ghazal-dil-girifta-hi-sahi-bazm-saja-li-jaye
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, دل, dil, گرفتہ, girifta, عید, eid, محبت, mohabbat, درد, dard, دشمن, dushman, شہر, sheher, عزت, izzat, فضا, fizaa, رب, rab, امید, umeed, بلال, bilal]
 ---
 
 <div class="urdu-poetry" lang="ur">

@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-05-31
 slug: ghazal-kuch-aisi-ab-ke-chali
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, ہجر, hijr, جدائی, judaai, وصال, wisal, عشق, ishq, دعا, dua, دعائے_ہجر, dua-e-hijr, محبت, mohabbat, شہر, sheher, ہوائیں, hawaen, فقیر, faqeer, مسیحا, maseeha, روح, rooh, کتاب, kitaab, دریا, darya, بلال, bilal]
 ---
 
 <div class="urdu-poetry" lang="ur">

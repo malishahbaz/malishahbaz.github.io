@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2013-11-03
 slug: ghazal-jaan-teri-jahaan-tera
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

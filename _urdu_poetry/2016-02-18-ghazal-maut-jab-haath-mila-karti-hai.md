@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2016-02-18
 slug: ghazal-maut-jab-haath-mila-karti-hai
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, موت, maut, زندگی, zindagi, حشر, hashr, دیوار, deewar, شہر, sheher, مقتل, maqtal, آنکھیں, aankhein, احساس, ehsas, چاندنی, chaandni, روشنی, roshni, بلال, bilal]
 ---
 
 <div class="urdu-poetry" lang="ur">

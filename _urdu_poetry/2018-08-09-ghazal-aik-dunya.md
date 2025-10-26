@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2018-08-09
 slug: ghazal-aik-dunya
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

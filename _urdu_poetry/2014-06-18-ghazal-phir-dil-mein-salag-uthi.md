@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-06-18
 slug: ghazal-phir-dil-mein-salag-uthi
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

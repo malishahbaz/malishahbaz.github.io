@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-07-08
 slug: ghazal-is-dil-ki-band-kitabon
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

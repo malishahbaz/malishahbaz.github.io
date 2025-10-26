@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2020-04-01
 slug: ghazal-chiragh-le-ke-nikalna
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

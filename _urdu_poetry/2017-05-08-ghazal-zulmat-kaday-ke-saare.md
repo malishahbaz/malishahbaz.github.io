@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2017-05-08
 slug: ghazal-zulmat-kaday-ke-saare
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

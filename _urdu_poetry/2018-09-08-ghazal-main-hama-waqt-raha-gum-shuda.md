@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2018-09-08
 slug: ghazal-main-hama-waqt-raha-gum-shuda
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, جنوں, junoon, خدا, khuda, وقت, waqt, گریہ, giriya, امکان, imkan, اسرار, asrar, دشت, dasht, تحیر, tahayyur, اشعار, ashhaar, روشنی, roshni, بلال, bilal]
 ---
 
 <div class="urdu-poetry" lang="ur">

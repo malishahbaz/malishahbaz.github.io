@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-03-11
 slug: ghazal-dil-bhatakta-hi-raha-khawabon-mein
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, دل, dil, خواب, khawab, اوقات, auqaat, ستارے, sitare, ترقی, taraqqi, محبت, mohabbat, روایات, riwayat, میکدہ, maikada, آئین, aaeen, بلال, bilal]
 ---
 
 <div class="urdu-poetry" lang="ur">

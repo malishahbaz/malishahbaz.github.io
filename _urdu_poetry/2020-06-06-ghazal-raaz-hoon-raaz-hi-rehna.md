@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2020-06-06
 slug: ghazal-raaz-hoon-raaz-hi-rehna
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

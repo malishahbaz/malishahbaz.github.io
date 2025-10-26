@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2013-05-14
 slug: ghazal-ocha-hai-mera-sar
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

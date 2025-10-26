@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-06-17
 slug: ghazal-chanchal-matwali-raaton
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

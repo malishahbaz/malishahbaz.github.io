@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-06-17
 slug: ghazal-aag-hai-silsila
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

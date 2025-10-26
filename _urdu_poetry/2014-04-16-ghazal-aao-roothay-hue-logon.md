@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-04-16
 slug: ghazal-aao-roothay-hue-logon
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

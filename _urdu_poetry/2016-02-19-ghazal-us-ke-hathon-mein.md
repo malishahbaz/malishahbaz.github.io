@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2016-02-19
 slug: ghazal-us-ke-hathon-mein
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

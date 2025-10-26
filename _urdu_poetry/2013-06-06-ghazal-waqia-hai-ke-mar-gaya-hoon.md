@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2013-06-06
 slug: ghazal-waqia-hai-ke-mar-gaya-hoon
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, واقعہ, waqia, خدا, khuda, زندگی, zindagi, دل, dil, موسم, mausam, رشتہ, rishta, خوف, khauf, مکالمہ, mukalma, خون, khoon, راستہ, raasta, بلال, bilal]
 ---
 
 <div class="urdu-poetry" lang="ur">

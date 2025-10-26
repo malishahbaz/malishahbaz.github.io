@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-04-13
 slug: ghazal-jin-ke-andaz-the
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2015-08-16
 slug: ghazal-jo-sar-sinan-pe-saje
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2015-06-06
 slug: ghazal-kal-shab-suna-hawaon-ke-tewar
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, ہوا, hawa, سسکیاں, siskiyan, ملبہ, malba, خواہش, khwahish, آنکھیں, aankhein, آنسو, aansoo, تمنا, tamanna, جزیرہ, jazira, وجود, wajood, زیست, zindagi, بلال, bilal]
 ---
 
 <div class="urdu-poetry" lang="ur">

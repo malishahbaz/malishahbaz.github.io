@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-12-01
 slug: ghazal-jaan-gusal-mehr
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

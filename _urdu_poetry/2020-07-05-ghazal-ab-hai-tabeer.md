@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2020-07-05
 slug: ghazal-ab-hai-tabeer
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

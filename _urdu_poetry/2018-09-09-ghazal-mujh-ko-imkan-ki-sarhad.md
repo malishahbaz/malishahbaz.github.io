@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2018-09-09
 slug: ghazal-mujh-ko-imkan-ki-sarhad
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, امکان, imkan, سرحد, sarhad, وقت, waqt, تصور, tasavvur, فردا, farda, امروز, amroz, ماضی, maazi, آگ, aag, نور, noor, جنوں, junoon, عشق, ishq, گردش, gardish, خیال, khayal]
 ---
 
 <div class="urdu-poetry" lang="ur">

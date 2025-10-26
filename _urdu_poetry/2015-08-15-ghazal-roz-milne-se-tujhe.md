@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2015-08-15
 slug: ghazal-roz-milne-se-tujhe
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

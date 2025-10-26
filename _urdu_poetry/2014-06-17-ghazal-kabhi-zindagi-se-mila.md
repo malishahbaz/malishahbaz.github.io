@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-06-17
 slug: ghazal-kabhi-zindagi-se-mila
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq, زندگی, zindagi, موت, maut, دعا, dua, جدائی, judaai, چمن, chaman, خوشی, khushi, رقیب, raqeeb, محبت, mohabbat, تمنا, tamanna, نقش, naqsh, وفا, wafa]
 ---
 
 <div class="urdu-poetry" lang="ur">

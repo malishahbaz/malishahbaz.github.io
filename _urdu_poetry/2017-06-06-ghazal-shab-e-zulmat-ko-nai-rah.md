@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2017-06-06
 slug: ghazal-shab-e-zulmat-ko-nai-rah
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2020-06-06
 slug: ghazal-bojhal-si-tabiyat
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">

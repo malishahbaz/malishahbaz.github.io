@@ -5,7 +5,6 @@ author: "محمد بلال اعظم"
 date: 2014-02-01
 slug: ghazal-aik-jugnu-hai
 lang: ur
-tags: [urdu, poetry, ghazal, nastaleeq]
 ---
 
 <div class="urdu-poetry" lang="ur">
