@@ -1,0 +1,20 @@
+---
+layout: post
+title: "عشق گرداب کی صورت ہے سہارے واجب"
+author: "محمد بلال اعظم"
+date: 2015-04-04
+slug: ghazal-ishq-girdab-ki-surat
+lang: ur
+tags: [urdu, poetry, ghazal, nastaleeq, عشق, ishq, گرداب, girdab, سہارے, sahare, دشمن, dushman, جان, jaan, زلف, zulf, شام, shaam, سمندر, samandar, آنکھیں, aankhein, کنارے, kinare, امید, umeed]
+---
+
+<div class="urdu-poetry" lang="ur">
+عشق گرداب کی صورت ہے سہارے واجب<br>
+دشمنِ جاں ہوں کہ پھر جان سے پیارے، واجب<br><br>
+
+ہم اگر شعر بھی لکھیں تو قیامت ٹھہرے<br>
+وہ سرِ شام اگر زلف سنوارے، واجب<br><br>
+
+دشتِ مایوسی میں بھی اُس نے کہا مجھ سے بلالؔ<br>
+جب سمندر ہوئی آنکھیں تو کنارے واجب
+</div>
