@@ -4,7 +4,7 @@ title: "When Spacetime Becomes Countable: Causal Sets and the Fluctuating Lambda
 description: How discreteness, causality, and quantum uncertainty might explain the ever-changing cosmological constant.
 img: assets/img/project_cst_fluctuating_lambda/causal_set_cover.png
 importance: 2
-category: work
+category: Work
 related_publications: false
 ---
 

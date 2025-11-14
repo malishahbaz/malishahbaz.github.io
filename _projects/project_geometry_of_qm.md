@@ -4,7 +4,7 @@ title: "When Quantum Became Geometry: The Hidden Shape of Hilbert Space"
 description: A journey into the deep structure of quantum mechanics — where complex vectors curve into geometry and Schrödinger’s equation becomes a Hamiltonian flow.
 img: assets/img/project_geometry_of_qm/geometry_of_qm_cover1.png
 importance: 2
-category: work
+category: Work
 related_publications: false
 ---
 

@@ -4,7 +4,7 @@ title: "How the Universe Learned to Expand: The Story of the Friedmann Equations
 description: A brief journey through the insight that turned Einstein’s geometry into the heartbeat of an evolving cosmos.
 img: assets/img/project_friedmann_equations/friedmann_cover.png
 importance: 2
-category: work
+category: Work
 related_publications: false
 ---
 

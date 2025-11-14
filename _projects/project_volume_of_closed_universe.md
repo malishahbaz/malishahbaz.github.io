@@ -4,7 +4,7 @@ title: "How Big Is Everything? The Geometry and Volume of a Closed Universe"
 description: A story about the universe’s possible shapes — open, flat, or closed — and how its very volume might whisper secrets about the quantum nature of spacetime.
 img: assets/img/project_volume_of_closed_universe/closed_universe_cover.png
 importance: 2
-category: work
+category: Work
 related_publications: false
 ---
 
