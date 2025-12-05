@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mbilalazam.github.io/sitemap.xml
