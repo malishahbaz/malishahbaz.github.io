@@ -676,3 +676,5 @@ jsonresume:
       # permalink: '/urdu/blogs/page/:num/'
       # sort_field: 'date'
       # sort_reverse: true
+
+# trigger rebuild
