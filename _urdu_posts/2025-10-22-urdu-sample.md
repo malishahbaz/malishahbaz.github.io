@@ -2,7 +2,7 @@
 layout: post
 title: "میری پہلی اردو تحریر"
 subtitle: "نستعلیق اور دائیں-سے-بائیں ترتیب کا نمونہ"
-author: "محمد بلال اعظم"
+author: "محمد علی شہباز"
 lang: ur
 tags: [urdu, nastaleeq, rtl]
 image: /assets/img/posts/urdu_sample/cover.jpg
