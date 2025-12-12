@@ -1,40 +1,32 @@
 {
   "basics": {
-    "name": "Muhammad Bilal Azam",
+    "name": "Muhammad Ali Shahbaz",
     "label": "Graduate Research Assistant | PhD Candidate in Physics",
     "image": "assets/img/prof_pic.jpg",
-    "email": "azam@anl.gov",
-    "url": "https://mbilalazam.github.io",
-    "summary": "PhD candidate in Physics at Illinois Institute of Technology and Graduate Research Assistant at Argonne National Laboratory. Member of the DUNE Collaboration, specializing in AI/ML-based neutrino event reconstruction, simulation, and analysis for the DUNE Near Detector Prototype (2×2).",
+    "email": "mshahbaz@unr.edu",
+    "url": "https://malishahbaz.github.io",
+    "summary": "PhD candidate in Physics and Graduate Research Assistant at University of Nevada Reno. Member of the "Weisntein Experimental AMO Lab.",
     "location": {
-      "address": "Argonne National Laboratory",
-      "postalCode": "60439",
-      "city": "Lemont",
+      "address": "Leifson Physics",
+      "postalCode": "89557",
+      "city": "Reno",
       "countryCode": "US",
-      "region": "Illinois"
+      "region": "Nevada"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "muhammad-bilal-azam",
-        "url": "https://www.linkedin.com/in/muhammad-bilal-azam-8844ab137/"
+        "username": "malishahbaz",
+        "url": "https://www.linkedin.com/in/malishahbaz/"
       },
       {
         "network": "Google Scholar",
-        "url": "https://scholar.google.com/citations?user=WfHM6RIAAAAJ&hl=en&oi=ao"
-      },
-      {
-        "network": "INSPIRE HEP",
-        "url": "https://inspirehep.net/authors/2047024/"
+        "url": "https://scholar.google.com/citations?user=ZJsjkrcAAAAJ&hl=en"
       },
       {
         "network": "GitHub",
-        "url": "https://github.com/teckyonAI"
+        "url": "https://github.com/malishahbaz"
       },
-      {
-        "network": "Argonne Profile",
-        "url": "https://www.anl.gov/profile/muhammad-bilal-azam/"
-      }
     ]
   },
 
