@@ -559,11 +559,11 @@ ninja.data = [{
           description: "",
           section: "Urdu_poetry",handler: () => {
               window.location.href = "/urdu/poetry/ghazal-ab-hai-tabeer/";
-            },},{id: "urdu_posts-کچھ-ذکر-پاکستان-کے-عالمی-شہرت-یافتہ-ماہرِ-طبیعیات-ڈاکٹر-ریاض-الدین-کا",
-          title: 'کچھ ذکر پاکستان کے عالمی شہرت یافتہ ماہرِ طبیعیات ڈاکٹر ریاض الدین کا...',
-          description: "ڈاکٹر ریاض الدین — پاکستان کے عظیم سائنسدان، نظری طبیعیات کے ماہر اور ڈاکٹر عبدالسلام کے شاگردِ رشید کا تفصیلی تعارف۔",
+            },},{id: "urdu_posts-سائنس-کیا-ہے",
+          title: 'سائنس کیا ہے؟',
+          description: "سائنس کیا ہے اور کیسے کام کرتی ہے",
           section: "Urdu_posts",handler: () => {
-              window.location.href = "/urdu/blogs/urdu-riazuddin/";
+              window.location.href = "/urdu/blogs/urdu-what-is-science/";
             },},{id: "urdu_posts-میری-پہلی-اردو-تحریر",
           title: 'میری پہلی اردو تحریر',
           description: "",
