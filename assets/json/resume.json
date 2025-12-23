@@ -32,104 +32,71 @@
 
   "work": [
     {
-      "name": "Argonne National Laboratory",
+      "name": "Weinstein Lab",
       "position": "Graduate Research Assistant",
-      "url": "https://www.anl.gov/",
-      "startDate": "2022-06-01",
-      "summary": "Contributing to detector development and data analysis for the DUNE experiment, with focus on calibration system design, generator validation, and AI-driven event reconstruction on high-performance computing systems."
+      "url": "https://www.weinsteinlab.org/",
+      "startDate": "2024-06-01",
+      "summary": "Contributing to developing techniques to move from working with ensemble of atoms in cryogenic solids to working with single atoms. This is the first step towards the long-term goals of using a single atom as a quantum sensor to perform NMR and MRI measurements of a single molecule."
     },
     {
-      "name": "Lahore University of Management Sciences (LUMS)",
-      "position": "Research Assistant",
-      "url": "https://lums.edu.pk/",
-      "startDate": "2019-06-01",
-      "endDate": "2020-07-01",
-      "summary": "Worked on dark energy models in curved spacetime under causal set theory."
-    },
-    {
-      "name": "FAST National University of Computer and Emerging Sciences",
-      "position": "Visiting Lecturer (Physics)",
-      "url": "https://nu.edu.pk/",
-      "startDate": "2019-08-01",
-      "endDate": "2021-06-01",
-      "summary": "Delivered undergraduate lectures in applied physics and electronics."
-    },
-    {
-      "name": "University of Sahiwal",
-      "position": "Visiting Lecturer (Physics)",
-      "url": "https://www.uosahiwal.edu.pk/",
-      "startDate": "2019-08-01",
-      "endDate": "2021-06-01",
-      "summary": "Taught advanced physics courses including Relativity, Quantum Physics, and Electromagnetic Theory."
+      "name": "Higher Education Department (HED) Punjab",
+      "position": "Lecturer in Physics",
+      "url": "https://hed.punjab.gov.pk/",
+      "startDate": "2012-08-30",
+      "endDate": "2021-08-23",
+      "summary": "Teaching High School and Undergraduate Physics courses"
     }
-  ],
+      ],
 
   "education": [
     {
-      "institution": "Illinois Institute of Technology",
-      "location": "Chicago, United States",
-      "url": "https://www.iit.edu/",
+      "institution": "University of Nevada Reno",
+      "location": "Nevada, United States",
+      "url": "https://www.unr.edu/",
       "area": "Physics",
       "studyType": "PhD",
       "startDate": "2021-08-01",
-      "summary": "PhD in Experimental High Energy Physics under Prof. Dr. Zelimir Djurcic; research focuses on AI/ML-based neutrino reconstruction and DUNE 2×2 data analysis."
+      "summary": "PhD in Experimental AMO Physics under Prof. Jonathan D. Weinstein; research focuses on developing single atom quantum sensors"
     },
     {
-      "institution": "Lahore University of Management Sciences (LUMS)",
-      "location": "Lahore, Pakistan",
-      "url": "https://lums.edu.pk/",
+      "institution": "Quaid-i-Azam University (QAU)",
+      "location": "Islamabad, Pakistan",
+      "url": "https://qau.edu.pk/",
       "area": "Physics",
       "studyType": "MS",
-      "startDate": "2017-08-01",
-      "endDate": "2019-06-01",
-      "summary": "Master’s thesis on dark energy in causal set theory, addressing the fine-tuning problem via unimodular gravity."
+      "startDate": "2011-08-01",
+      "endDate": "2013-10-31",
+      "summary": "Master’s thesis on Generalized Higgs Inflation."
     },
     {
-      "institution": "Government Graduate College",
-      "location": "Sahiwal, Pakistan",
+      "institution": "Quaid-i-Azam University (QAU)",
+      "location": "Islamabad, Pakistan",
+      "url": "https://qau.edu.pk/",
+      "area": "Physics",
+      "studyType": "MSc",
+      "startDate": "2009-09-01",
+      "endDate": "2011-08-19",
+      "summary": "Master’s thesis on Generalized Higgs Inflation."
+    },
+    {
+      "institution": "Government Science Graduate College",
+      "location": "Faisalabad, Pakistan",
       "area": "Physics and Mathematics",
-      "studyType": "BSc, MSc",
-      "startDate": "2011-11-01",
-      "endDate": "2015-05-01",
-      "summary": "Bachelor’s and Master’s studies emphasizing theoretical and experimental physics."
+      "studyType": "BSc",
+      "startDate": "2007-09-01",
+      "endDate": "2009-07-15",
+      "summary": "Bachelor’s studies with major in Mathematics and Physics"
     }
   ],
 
   "awards": [
     {
-      "title": "Department of Energy (DOE) Graduate Research Grant",
-      "date": "2023-09-01",
-      "awarder": "U.S. Department of Energy",
-      "summary": "Selected for the DOE grant for participation in Intensity Frontier Neutrino Physics."
-    },
-    {
-      "title": "DOE-INFN Summer Exchange Fellowship",
-      "date": "2023-06-01",
-      "awarder": "DOE & INFN Italy",
-      "summary": "Selected to study the performance of DUNE Near Detector systems at Laboratori Nazionali del Sud, Catania, Italy."
-    },
-    {
-      "title": "Best Paper Award",
-      "date": "2020-02-01",
-      "awarder": "University of Sahiwal, Pakistan",
-      "summary": "Awarded for outstanding research presentation at the 2020 Research Symposium."
-    },
-    {
-      "title": "First Position in LHC Physics School Project Competition",
-      "date": "2018-08-01",
-      "awarder": "National Centre for Physics, Islamabad, Pakistan"
+      "title": "Graduate Research Grant",
+      "date": "2024-06-01",
+      "awarder": "National Science Foundation (NSF), USA",
+     
     }
   ],
-
-  "certificates": [
-    {
-      "name": "AI for Science on Supercomputers: Advanced (Badge)",
-      "date": "2024-04-01",
-      "issuer": "Argonne National Laboratory",
-      "url": "https://openbadgefactory.com/v1/assertion/f2cc7ba7186aa3c54c5c59ceff29b3561bacc11f"
-    }
-  ],
-
   "publications": [
     {
       "name": "DUNE Software and Computing Research and Development",
@@ -137,57 +104,7 @@
       "releaseDate": "2025-03-24",
       "url": "https://arxiv.org/abs/2503.23743"
     },
-    {
-      "name": "The DUNE Science Program",
-      "publisher": "arXiv",
-      "releaseDate": "2025-03-22",
-      "url": "https://arxiv.org/abs/2503.23291"
-    },
-    {
-      "name": "The DUNE Phase II Detectors",
-      "publisher": "arXiv",
-      "releaseDate": "2025-03-22",
-      "url": "https://arxiv.org/abs/2503.23293"
-    },
-    {
-      "name": "Neutrino Interaction Vertex Reconstruction in DUNE with Pandora Deep Learning",
-      "publisher": "arXiv",
-      "releaseDate": "2025-02-11",
-      "url": "https://arxiv.org/abs/2502.06637"
-    },
-    {
-      "name": "Track-length extension fitting algorithm for energy measurement in liquid argon TPCs",
-      "publisher": "Physical Review D",
-      "releaseDate": "2024-10-01",
-      "url": "https://doi.org/10.1103/PhysRevD.110.092011"
-    },
-    {
-      "name": "First Physics Studies with DUNE Near Detector Prototype (2×2)",
-      "publisher": "Bulletin of the American Physical Society",
-      "releaseDate": "2024-04-05"
-    }
-  ],
-
-  "skills": [
-    {
-      "name": "Programming & Analysis",
-      "keywords": ["C++", "Python", "ROOT", "LaTeX", "MATLAB", "Julia", "Bash", "HPC"]
-    },
-    {
-      "name": "Machine Learning & AI",
-      "keywords": ["Deep Learning", "PyTorch", "TensorFlow", "Generative AI", "NLP", "CUDA"]
-    },
-    {
-      "name": "Physics & Experimentation",
-      "keywords": [
-        "Neutrino Physics",
-        "Event Reconstruction",
-        "Detector Simulation",
-        "Cosmology",
-        "Photon Detection",
-        "Causal Set Theory"
-      ]
-    }
+              
   ],
 
   "languages": [
@@ -214,19 +131,3 @@
         "Data Visualization"
       ]
     }
-  ],
-
-  "projects": [
-    {
-      "name": "DUNE 2×2 Near Detector Prototype",
-	  "summary": "Analyzing charged-track multiplicity, event selection, and reconstruction performance using ML-assisted pipelines for the DUNE Near Detector Prototype (2×2).",
-      "highlights": ["Photon Detection Calibration and Simulation", "Neutrino Generator and Multiplicity Analysis", "AI/ML-Driven Event Reconstruction and Selection Optimization"],
-      "url": "https://dune.fnal.gov/"
-    },
-    {
-      "name": "Dark Energy in Causal Set Theory",
-      "summary": "Developed a formalism to address the cosmological constant problem using unimodular gravity and fluctuating Λ in a closed universe.",
-      "highlights": ["Causal set–based dark energy modeling", "Implementation within unimodular gravity", "Analysis of cosmological constant fine-tuning"]
-    }
-  ]
-}
